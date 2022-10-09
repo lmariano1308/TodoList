@@ -4,6 +4,8 @@
 
 TodoList completa e interativa.
 
+Você pode acessar o app diretamente por esse link: https://todo-list-gamma-liart.vercel.app
+
 ### Desenvolvido e Otimizado por: [Lucas Mariano dos Santos](https://www.linkedin.com/in/lucas-mariano-846312107/)
 
 ## Descrição do Projeto
