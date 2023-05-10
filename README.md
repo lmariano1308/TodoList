@@ -12,6 +12,8 @@ Você pode acessar o app diretamente por esse link: https://todo-list-gamma-liar
 
 Nesse projeto, desenvolvi um 'TodoList' inteiramente feito em React.JS, com opções de adicionar tarefas, acompanhá-las, podendo posteriormente editá-las ou excluí-las, além de poder filtrar as mesmas em Tudo | Incompletas | Completas (As tarefas já são filtradas automaticamente por Data e Horário).
 
+Esse foi o projeto em que garantiu a vaga na qual tenho hoje na Mindtech - Design House & IoT na posição de Desenvolvedor Front-End e Mobile com React.JS, React Native e Next.JS com TypeScript.
+
 ## Frameworks e Ferramentas Utilizadas:
 
 - [React](https://reactjs.org/)
